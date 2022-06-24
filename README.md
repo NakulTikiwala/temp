@@ -13,3 +13,8 @@ ssup
 #### local development
 
 made 1 branch and know how to push file on github
+
+### chal bs ke
+
+
+ya bs ek vr thai jai
