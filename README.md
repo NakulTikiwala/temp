@@ -9,3 +9,7 @@ try to finish this time you Da.
 hola
 hey nice work
 ssup
+
+#### local development
+
+made 1 branch and know how to push file on github
